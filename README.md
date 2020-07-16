@@ -12,7 +12,7 @@ More scenes and features will be added in the future.</p>
 ![Screenshot 2020-07-16 12 35 06](https://user-images.githubusercontent.com/60148868/87641118-4adf6480-c765-11ea-8b88-d2f73608676f.png)
 
 # 2. Rules
-![Screenshot 2020-07-16 12 35 16](https://user-images.githubusercontent.com/60148868/87642806-a4e12980-c767-11ea-9bd4-65b6cbc41b34.png)
+![Screenshot 2020-07-16 13 10 48](https://user-images.githubusercontent.com/60148868/87642811-a7438380-c767-11ea-845c-07f117c7b90d.png)
 
 # 3. Loading Page
 ![Screenshot 2020-07-16 12 35 16](https://user-images.githubusercontent.com/60148868/87641251-75312200-c765-11ea-970e-0493ff3db792.png)
