@@ -34,8 +34,8 @@ More scenes and features will be added in the future.</p>
 
 
 # References
-<p>Image Credits: Google Images</p>
-<p>Soundtrack and sounds:
+<p><b>Image Credits:</b> Google Images</p>
+<p><b>Soundtrack and sounds:</b> Taken from open source content from YouTube
 </p>
 <p><b>Online Tutorials:</b><br>
 <b>Unity Tutorial: Creating Hangman by ThyLordRoot on YouTube</b> - for basics of ragdoll creation and beginner level game coding.<br>
