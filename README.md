@@ -5,8 +5,11 @@ For every incorrect guess, the other girl loses a limb and eventually is left wi
 <p>As of now, two scenes have been created for this game. Other features include sounds, soundtrack and basic buttons. 
 More scenes and features will be added in the future.</p>
 
+<p>This game is built on the Unity platform and is coded using c#.</p>
+
+<p>I learnt how to use the platform and develop ragdolls through online tutorials.</p>
+
 # Screenshots
 
 
-# References
 
