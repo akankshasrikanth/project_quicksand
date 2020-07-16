@@ -32,7 +32,7 @@ More scenes and features will be added in the future.</p>
 # 7. Game Over
 ![Screenshot 2020-07-16 13 12 00](https://user-images.githubusercontent.com/60148868/87642104-b544d480-c766-11ea-9c4c-8d698dd42d58.png)
 
-<br>
+
 # References
 <p>Image Credits: Google Images</p>
 <p>Soundtrack and sounds:
