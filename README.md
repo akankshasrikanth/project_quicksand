@@ -10,6 +10,6 @@ More scenes and features will be added in the future.</p>
 <p>I learnt how to use the platform and develop ragdolls through online tutorials.</p>
 
 # Screenshots
-![Uploading Screenshot 2020-07-16 12.35.06.png…]()
+![Screenshot 2020-07-16 12 35 06](https://user-images.githubusercontent.com/60148868/87641118-4adf6480-c765-11ea-8b88-d2f73608676f.png)
 
 
