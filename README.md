@@ -37,7 +37,7 @@ More scenes and features will be added in the future.</p>
 <p>Image Credits: Google Images</p>
 <p>Soundtrack and sounds:
 </p>
-<p>Online Tutorials:
-Unity Tutorial: Creating Hangman by ThyLordRoot on YouTube - for basics of ragdoll creation and beginner level game coding.
-Online Unity Tutorials - YouTube - for understanding the platform and features. 
+<p><b>Online Tutorials:</b>
+<b>Unity Tutorial: Creating Hangman by ThyLordRoot on YouTube</b> - for basics of ragdoll creation and beginner level game coding.
+<b>Online Unity Tutorials - YouTube</b> - for understanding the platform and features. 
 </p>
